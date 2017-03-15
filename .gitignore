@@ -1,5 +1,5 @@
-.doc*
-*.docx
-*.doc
+refereed_works/*.doc
+refereed_works/*.docx
+refereed_works/*.odt
 refereed_works/joinPDF script.txt
 refereed_works/blankpage.pdf
