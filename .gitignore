@@ -12,5 +12,4 @@ abstracts_and_technical_reports/*.docx
 abstracts_and_technical_reports/*.pptx
 refereed_works/[53] Resource calculator license.pdf
 refereed_works/[53] Resource calculator data.xlsx
-abstracts_and_technical_reports/[A22] PyConSG2016_DOSE.mp4
-abstracts_and_technical_reports/[A25] Digital Organism for Evolutionary Insights.mp4
+abstracts_and_technical_reports/*.mp4
