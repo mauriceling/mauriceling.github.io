@@ -1,16 +1,19 @@
 refereed_works/*.doc
 refereed_works/*.docx
 refereed_works/*.odt
+refereed_works/*.ppt
+refereed_works/*.pptx
+refereed_works/*.xls
+refereed_works/*.xlsx
 refereed_works/joinPDF script.txt
 refereed_works/blankpage.pdf
-refereed_works/PRIB'07 copyright.pdf
-refereed_works/*Review Comments.*
+refereed_works/*copyright.pdf
+refereed_works/*Review*.*
 refereed_works/*Acceptance.*
 refereed_works/*CTF.pdf
+refereed_works/*COI*.*
 maurice_resume.docx
 abstracts_and_technical_reports/*.docx
 abstracts_and_technical_reports/*.pptx
-refereed_works/[53] Resource calculator license.pdf
-refereed_works/[53] Resource calculator data.xlsx
 abstracts_and_technical_reports/*.mp4
 *.dropbox.attr
